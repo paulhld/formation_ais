@@ -6,3 +6,4 @@
 | 2026-07-24 | Réseaux : VLAN | quiz corrige | 10/10 (100%) |
 | 2026-07-25 | Réseaux : le routage | quiz corrige | 9/10 (90%) |
 | 2026-07-26 | Réseaux : DNS et DHCP | lecon donnee, quiz en attente de reponse | - |
+| 2026-07-27 | Réseaux : le pare-feu (firewall) | lecon donnee, quiz en attente de reponse | - |
