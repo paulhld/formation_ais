@@ -9,4 +9,4 @@
 | 2026-07-27 | Réseaux : le pare-feu (firewall) | quiz corrige | 9/10 (90%) |
 | 2026-07-28 | Réseaux : le NAT (Network Address Translation) | quiz corrige | 7/10 (70%) |
 | 2026-07-29 | Réseaux : VPN et Wi-Fi sécurisé | quiz corrige | 7/9 (78%) |
-| 2026-07-30 | Windows Server : Active Directory Domain Services (AD DS) | lecon donnee, quiz en attente de reponse | - |
+| 2026-07-30 | Windows Server : Active Directory Domain Services (AD DS) | quiz corrige | 10/10 (100%) |
