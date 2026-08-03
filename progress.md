@@ -11,6 +11,6 @@
 | 2026-07-29 | Réseaux : VPN et Wi-Fi sécurisé | quiz corrige | 7/9 (78%) |
 | 2026-07-30 | Windows Server : Active Directory Domain Services (AD DS) | quiz corrige | 10/10 (100%) |
 | 2026-07-31 | Windows Server : les GPO (Group Policy Objects) | quiz corrige | 8/10 (80%) |
-| 2026-08-01 | Windows Server : DNS et DHCP sous Windows Server | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-01 | Windows Server : DNS et DHCP sous Windows Server | quiz corrige | 7/10 (70%) |
 | 2026-08-02 | Linux : administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-03 | Virtualisation : hyperviseurs, VM, snapshots, haute disponibilite | lecon donnee, quiz en attente de reponse | - |
