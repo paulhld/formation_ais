@@ -13,3 +13,4 @@
 | 2026-07-31 | Windows Server : les GPO (Group Policy Objects) | quiz corrige | 8/10 (80%) |
 | 2026-08-01 | Windows Server : DNS et DHCP sous Windows Server | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-02 | Linux : administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-03 | Virtualisation : hyperviseurs, VM, snapshots, haute disponibilite | lecon donnee, quiz en attente de reponse | - |
