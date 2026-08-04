@@ -14,3 +14,4 @@
 | 2026-08-01 | Windows Server : DNS et DHCP sous Windows Server | quiz corrige | 7/10 (70%) |
 | 2026-08-02 | Linux : administration de base, permissions, services, systemd | quiz corrige | 3.5/9 (39%) |
 | 2026-08-03 | Virtualisation : hyperviseurs, VM, snapshots, haute disponibilite | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-04 | Revision : Linux - administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
