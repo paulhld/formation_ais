@@ -17,3 +17,4 @@
 | 2026-08-04 | Revision : Linux - administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-05 | Securite : IAM, gestion des droits, durcissement (hardening) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-06 | Securite : PSSI, normes (ISO 27001, RGPD de base), gestion des risques | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-07 | Supervision : logs, SIEM basique, outils de monitoring | lecon donnee, quiz en attente de reponse | - |
