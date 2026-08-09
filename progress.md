@@ -19,3 +19,4 @@
 | 2026-08-06 | Securite : PSSI, normes (ISO 27001, RGPD de base), gestion des risques | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-07 | Supervision : logs, SIEM basique, outils de monitoring | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-08 | Scripting/automatisation : PowerShell et Bash pour l'admin systeme | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-09 | Sauvegarde/PRA/PCA : strategies de sauvegarde, plan de reprise d'activite | lecon donnee, quiz en attente de reponse | - |
