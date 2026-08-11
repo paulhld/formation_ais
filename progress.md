@@ -21,3 +21,4 @@
 | 2026-08-08 | Scripting/automatisation : PowerShell et Bash pour l'admin systeme | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-09 | Sauvegarde/PRA/PCA : strategies de sauvegarde, plan de reprise d'activite | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-10 | Revision : Linux - administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-11 | Revision : Linux - permissions, systemd et diagnostic de services | lecon donnee, quiz en attente de reponse | - |
