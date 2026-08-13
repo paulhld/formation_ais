@@ -23,3 +23,4 @@
 | 2026-08-10 | Revision : Linux - administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-11 | Revision : Linux - permissions, systemd et diagnostic de services | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-12 | Revision : Linux - gestion des utilisateurs, groupes et cron | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-13 | Revision : Linux - gestion des paquets et du stockage | lecon donnee, quiz en attente de reponse | - |
