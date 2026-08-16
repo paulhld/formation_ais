@@ -26,3 +26,4 @@
 | 2026-08-13 | Revision : Linux - gestion des paquets et du stockage | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-14 | Revision : Linux - processus, performance et journalisation (ps/top/kill/journalctl) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-15 | Revision : Linux - configuration reseau de base (ip, ss, resolution DNS locale) | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-16 | Revision : Linux - recherche de fichiers, redirections/pipes et archivage (find, grep, tar) | lecon donnee, quiz en attente de reponse | - |
