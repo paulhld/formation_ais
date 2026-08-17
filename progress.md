@@ -27,3 +27,4 @@
 | 2026-08-14 | Revision : Linux - processus, performance et journalisation (ps/top/kill/journalctl) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-15 | Revision : Linux - configuration reseau de base (ip, ss, resolution DNS locale) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-16 | Revision : Linux - recherche de fichiers, redirections/pipes et archivage (find, grep, tar) | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-17 | Revision : Linux - SSH et connexion a distance (cles SSH, scp, durcissement sshd_config) | lecon donnee, quiz en attente de reponse | - |
