@@ -13,7 +13,7 @@
 | 2026-07-31 | Windows Server : les GPO (Group Policy Objects) | quiz corrige | 8/10 (80%) |
 | 2026-08-01 | Windows Server : DNS et DHCP sous Windows Server | quiz corrige | 7/10 (70%) |
 | 2026-08-02 | Linux : administration de base, permissions, services, systemd | quiz corrige | 3.5/9 (39%) |
-| 2026-08-03 | Virtualisation : hyperviseurs, VM, snapshots, haute disponibilite | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-03 | Virtualisation : hyperviseurs, VM, snapshots, haute disponibilite | quiz corrige | 9/10 (90%) |
 | 2026-08-04 | Revision : Linux - administration de base, permissions, services, systemd | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-05 | Securite : IAM, gestion des droits, durcissement (hardening) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-06 | Securite : PSSI, normes (ISO 27001, RGPD de base), gestion des risques | lecon donnee, quiz en attente de reponse | - |
