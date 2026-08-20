@@ -30,4 +30,4 @@
 | 2026-08-17 | Revision : Linux - SSH et connexion a distance (cles SSH, scp, durcissement sshd_config) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-18 | Revision : Linux - demarrage du systeme et cibles systemd (boot, targets, systemd-analyze) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-19 | Revision : Linux - gestion des logs (journald, rsyslog) et rotation avec logrotate | lecon donnee, quiz en attente de reponse | - |
-| 2026-08-20 | Securite : IAM, gestion des droits et durcissement (hardening) | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-20 | Securite : IAM, gestion des droits et durcissement (hardening) | quiz corrige | 10/10 (100%) |
