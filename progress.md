@@ -34,3 +34,4 @@
 | 2026-08-21 | Revision : Linux - memoire, swap et surveillance des ressources (free, vmstat, top/htop) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-22 | Revision : Linux - disques, partitions et systemes de fichiers (fdisk, lsblk, mount, fstab, LVM) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-23 | Revision : Linux - sudo, elevation de privileges et durcissement de base (SELinux/AppArmor) | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-24 | Revision : Reseaux - bases TCP/IP et adressage IP/masques (calcul de sous-reseaux) | lecon donnee, quiz en attente de reponse | - |
