@@ -37,3 +37,4 @@
 | 2026-08-24 | Revision : Reseaux - bases TCP/IP et adressage IP/masques (calcul de sous-reseaux) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-25 | Revision : Reseaux - VLSM, notation CIDR et agregation de routes (supernetting) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-26 | Revision : Reseaux - le NAT (Network Address Translation) approfondi | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-27 | Revision : Windows Server - DNS et DHCP (zones, enregistrements, relais/reservation/failover) | lecon donnee, quiz en attente de reponse | - |
