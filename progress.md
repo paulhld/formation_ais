@@ -39,3 +39,4 @@
 | 2026-08-26 | Revision : Reseaux - le NAT (Network Address Translation) approfondi | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-27 | Revision : Windows Server - DNS et DHCP (zones, enregistrements, relais/reservation/failover) | lecon donnee, quiz en attente de reponse | - |
 | 2026-08-28 | Revision : Sauvegarde/PRA/PCA - RTO/RPO, types de sauvegarde et regle 3-2-1 | lecon donnee, quiz en attente de reponse | - |
+| 2026-08-29 | Revision : Securite - PSSI, ISO 27001, RGPD de base et gestion des risques | lecon donnee, quiz en attente de reponse | - |
