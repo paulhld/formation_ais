@@ -45,3 +45,4 @@
 | 2026-09-01 | Revision : Reseaux - VPN et Wi-Fi securise (VPN site-a-site vs nomade, IPsec/OpenVPN/WireGuard, WPA2 vs WPA3, evil twin/deauth) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-02 | Revision : Scripting/automatisation - fonctions, gestion d'erreurs et automatisation planifiee (cron/Task Scheduler) en Bash/PowerShell | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-03 | Revision : Windows Server - GPO (Group Policy Objects) : ordre LSDOU, heritage/blocage/Enforced, filtrage de securite/WMI, Loopback, gpupdate/gpresult | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-04 | Revision : Reseaux - DNS et DHCP approfondis (enregistrements DNS, resolution recursive/iterative, TTL, DORA, bail T1/T2, reservation, relais DHCP, haute disponibilite) | lecon donnee, quiz en attente de reponse | - |
