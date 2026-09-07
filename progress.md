@@ -48,3 +48,4 @@
 | 2026-09-04 | Revision : Reseaux - DNS et DHCP approfondis (enregistrements DNS, resolution recursive/iterative, TTL, DORA, bail T1/T2, reservation, relais DHCP, haute disponibilite) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-05 | Revision : Linux - ACL (listes de controle d'acces) et quotas disque | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-06 | Revision : Sauvegarde/PRA/PCA - types de sauvegarde (complete/incrementielle/differentielle), tests de restauration et PCA vs PRA | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-07 | Revision : Windows Server - Active Directory approfondi (unites d'organisation, delegation de controle, roles FSMO) | lecon donnee, quiz en attente de reponse | - |
