@@ -50,3 +50,4 @@
 | 2026-09-06 | Revision : Sauvegarde/PRA/PCA - types de sauvegarde (complete/incrementielle/differentielle), tests de restauration et PCA vs PRA | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-07 | Revision : Windows Server - Active Directory approfondi (unites d'organisation, delegation de controle, roles FSMO) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-08 | Revision : Reseaux - le pare-feu (firewall) approfondi (zones/DMZ, stateful vs stateless, proxy applicatif, IDS/IPS) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-09 | Revision : Securite - IAM approfondi (MFA, SSO, PAM, principe du moindre privilege) | lecon donnee, quiz en attente de reponse | - |
