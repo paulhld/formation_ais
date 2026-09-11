@@ -52,3 +52,4 @@
 | 2026-09-08 | Revision : Reseaux - le pare-feu (firewall) approfondi (zones/DMZ, stateful vs stateless, proxy applicatif, IDS/IPS) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-09 | Revision : Securite - IAM approfondi (MFA, SSO, PAM, principe du moindre privilege) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-10 | Revision : Securite - PSSI et gestion des risques (methodologie type EBIOS RM, matrice de risques, strategies eviter/reduire/transferer/accepter) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-11 | Revision : Supervision - metriques, seuils d'alerte et outils courants (SNMP, Nagios/Zabbix, Prometheus/Grafana, faux positifs/negatifs) | lecon donnee, quiz en attente de reponse | - |
