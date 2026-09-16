@@ -57,3 +57,4 @@
 | 2026-09-13 | Revision : Scripting/automatisation - manipulation et filtrage de texte (grep/sed/awk en Bash, Select-String/Where-Object en PowerShell) | quiz corrige | 5/10 (50%) |
 | 2026-09-14 | Revision : Reseaux - le routage approfondi (statique vs dynamique, table de routage, route par defaut, RIP/OSPF) | quiz corrige | 8/9 (89%) |
 | 2026-09-15 | Revision : Linux - gestion des services avec systemd (unit files, enable/disable/mask, dependances Requires/Wants/After) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-16 | Revision : Scripting/automatisation - filtrage de texte approfondi (grep/sed/awk en Bash, Select-String/Where-Object/Select-Object en PowerShell) | lecon donnee, quiz en attente de reponse | - |
