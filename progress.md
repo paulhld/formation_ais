@@ -60,3 +60,4 @@
 | 2026-09-16 | Revision : Scripting/automatisation - filtrage de texte approfondi (grep/sed/awk en Bash, Select-String/Where-Object/Select-Object en PowerShell) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-17 | Revision : Sauvegarde/PRA/PCA - protection contre les ransomwares (sauvegardes immuables, air gap, regle 3-2-1-1-0) et redondance geographique | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-18 | Revision : Scripting/automatisation - grep, sed, awk et equivalents PowerShell (Select-String, -replace, Where-Object) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-19 | Revision : Scripting/automatisation - grep/sed/awk appliques a l'analyse de logs (cas pratiques, pipelines) | lecon donnee, quiz en attente de reponse | - |
