@@ -63,3 +63,4 @@
 | 2026-09-19 | Revision : Scripting/automatisation - grep/sed/awk appliques a l'analyse de logs (cas pratiques, pipelines) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-20 | Revision : Scripting/automatisation - expressions regulieres (regex) pour grep/sed/awk et equivalents PowerShell (-match/-replace/Select-String) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-21 | Revision : Scripting/automatisation - trier, dedoublonner et compter (sort/uniq/wc en Bash, Sort-Object/Group-Object/Measure-Object en PowerShell) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-22 | Revision : Scripting/automatisation - variables, tableaux et structures de controle (if/for/while) en Bash et PowerShell | lecon donnee, quiz en attente de reponse | - |
