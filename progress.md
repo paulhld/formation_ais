@@ -65,3 +65,4 @@
 | 2026-09-21 | Revision : Scripting/automatisation - trier, dedoublonner et compter (sort/uniq/wc en Bash, Sort-Object/Group-Object/Measure-Object en PowerShell) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-22 | Revision : Scripting/automatisation - variables, tableaux et structures de controle (if/for/while) en Bash et PowerShell | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-23 | Revision : Scripting/automatisation - arguments de script et gestion des erreurs (getopts/param, $?/$LASTEXITCODE, trap/try-catch) en Bash et PowerShell | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-24 | Revision : Virtualisation - conteneurs vs machines virtuelles (Docker, isolation, cas d'usage) | lecon donnee, quiz en attente de reponse | - |
