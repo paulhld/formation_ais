@@ -67,3 +67,4 @@
 | 2026-09-23 | Revision : Scripting/automatisation - arguments de script et gestion des erreurs (getopts/param, $?/$LASTEXITCODE, trap/try-catch) en Bash et PowerShell | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-24 | Revision : Virtualisation - conteneurs vs machines virtuelles (Docker, isolation, cas d'usage) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-25 | Revision : Scripting/automatisation - xargs, substitution de commande et flux avances (Bash et PowerShell) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-26 | Revision : Windows Server - permissions NTFS et partages reseau (partage SMB vs NTFS, heritage, Deny vs Allow) | lecon donnee, quiz en attente de reponse | - |
