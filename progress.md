@@ -68,3 +68,4 @@
 | 2026-09-24 | Revision : Virtualisation - conteneurs vs machines virtuelles (Docker, isolation, cas d'usage) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-25 | Revision : Scripting/automatisation - xargs, substitution de commande et flux avances (Bash et PowerShell) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-26 | Revision : Windows Server - permissions NTFS et partages reseau (partage SMB vs NTFS, heritage, Deny vs Allow) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-27 | Revision : Supervision - agregation centralisee de logs et correlation d'evenements (SIEM approfondi : normalisation, regles de correlation, chaine d'attaque, impossible travel) | lecon donnee, quiz en attente de reponse | - |
