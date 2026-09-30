@@ -71,3 +71,4 @@
 | 2026-09-27 | Revision : Supervision - agregation centralisee de logs et correlation d'evenements (SIEM approfondi : normalisation, regles de correlation, chaine d'attaque, impossible travel) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-28 | Revision : Windows Server - DNS/DHCP approfondi (mise a jour dynamique DNS, scavenging, options DHCP 003/006/015/066/067, super-etendues) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-29 | Revision : Linux - pare-feu local et securisation reseau (iptables/nftables, ufw, fail2ban) | lecon donnee, quiz en attente de reponse | - |
+| 2026-09-30 | Revision : Securite - chiffrement et PKI (symetrique vs asymetrique, certificats, TLS/HTTPS) | lecon donnee, quiz en attente de reponse | - |
