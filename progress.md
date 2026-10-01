@@ -72,3 +72,4 @@
 | 2026-09-28 | Revision : Windows Server - DNS/DHCP approfondi (mise a jour dynamique DNS, scavenging, options DHCP 003/006/015/066/067, super-etendues) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-29 | Revision : Linux - pare-feu local et securisation reseau (iptables/nftables, ufw, fail2ban) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-30 | Revision : Securite - chiffrement et PKI (symetrique vs asymetrique, certificats, TLS/HTTPS) | lecon donnee, quiz en attente de reponse | - |
+| 2026-10-01 | Revision : Sauvegarde/PRA/PCA - mise en oeuvre pratique du PRA (priorisation/BIA, cellule de crise, exercices de test, documentation) | lecon donnee, quiz en attente de reponse | - |
