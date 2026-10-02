@@ -73,3 +73,4 @@
 | 2026-09-29 | Revision : Linux - pare-feu local et securisation reseau (iptables/nftables, ufw, fail2ban) | lecon donnee, quiz en attente de reponse | - |
 | 2026-09-30 | Revision : Securite - chiffrement et PKI (symetrique vs asymetrique, certificats, TLS/HTTPS) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-01 | Revision : Sauvegarde/PRA/PCA - mise en oeuvre pratique du PRA (priorisation/BIA, cellule de crise, exercices de test, documentation) | lecon donnee, quiz en attente de reponse | - |
+| 2026-10-02 | Revision : Reseaux - le NAT approfondi (NAT statique/dynamique/PAT, double NAT, CGNAT, port forwarding, STUN/TURN) | lecon donnee, quiz en attente de reponse | - |
