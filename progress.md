@@ -75,3 +75,4 @@
 | 2026-10-01 | Revision : Sauvegarde/PRA/PCA - mise en oeuvre pratique du PRA (priorisation/BIA, cellule de crise, exercices de test, documentation) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-02 | Revision : Reseaux - le NAT approfondi (NAT statique/dynamique/PAT, double NAT, CGNAT, port forwarding, STUN/TURN) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-03 | Revision : Scripting/automatisation - fonctions et portee des variables (parametres, valeur de retour, scope local/global) en Bash et PowerShell | lecon donnee, quiz en attente de reponse | - |
+| 2026-10-04 | Revision ciblee : Scripting/automatisation - filtrage de texte (grep/sed/awk, Select-String/-replace/Where-Object), synthese pratique sur analyse de logs | lecon donnee, quiz en attente de reponse | - |
