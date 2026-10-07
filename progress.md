@@ -78,3 +78,4 @@
 | 2026-10-04 | Revision ciblee : Scripting/automatisation - filtrage de texte (grep/sed/awk, Select-String/-replace/Where-Object), synthese pratique sur analyse de logs | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-05 | Revision : Reseaux - VPN d'entreprise approfondi (IPsec vs SSL/TLS, authentification Wi-Fi 802.1X/RADIUS, WPA2/WPA3-Enterprise) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-06 | Revision ciblee : Scripting/automatisation - tableaux associatifs / dictionnaires (declare -A en Bash, Hashtable en PowerShell) | lecon donnee, quiz en attente de reponse | - |
+| 2026-10-07 | Revision : Virtualisation - sauvegarde et migration des VM (snapshot vs sauvegarde reelle, OVF/OVA, migration a chaud/a froid, P2V/V2V) | lecon donnee, quiz en attente de reponse | - |
