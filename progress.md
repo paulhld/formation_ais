@@ -80,3 +80,4 @@
 | 2026-10-06 | Revision ciblee : Scripting/automatisation - tableaux associatifs / dictionnaires (declare -A en Bash, Hashtable en PowerShell) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-07 | Revision : Virtualisation - sauvegarde et migration des VM (snapshot vs sauvegarde reelle, OVF/OVA, migration a chaud/a froid, P2V/V2V) | lecon donnee, quiz en attente de reponse | - |
 | 2026-10-08 | Revision : Windows Server - GPO, depannage et bonnes pratiques (RSoP/gpresult, Central Store/ADMX, sauvegarde-restauration-migration GPMC, Preferences vs Policies, liaison lente) | lecon donnee, quiz en attente de reponse | - |
+| 2026-10-09 | Revision ciblee : Linux - planification de taches (cron, crontab, anacron, at) | lecon donnee, quiz en attente de reponse | - |
